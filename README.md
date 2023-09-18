@@ -1,3 +1,6 @@
+<h3 align="center">🔍Finding stories in numbers and insights in the tales.</h3>
+<h1 align="center">Hi 👋, I'm Sarthak Puri</h1>
+
 # 💫 About Me:
 🔮I'm currently working on Advanced Deep Learning Techniques<br>🧞‍♂️I'm looking to collaborate on projects using ML/DL<br>🐣I'm looking for help with advanced technical knowledge in field of AI<br>👨🏻‍💻I'm currently learning Flutter<br>🎓Ask me about Machine Learning
 
