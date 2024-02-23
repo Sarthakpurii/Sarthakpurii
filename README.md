@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔮I'm currently working on Advanced Deep Learning Techniques<br>🧞‍♂️I'm looking to collaborate on projects using ML/DL<br>👨🏻‍💻I'm currently learning Flutter<br>🎓Ask me about Machine Learning
+🔮I'm currently working on Advanced NLP Techniques<br>🧞‍♂️I'm looking to collaborate on projects using ML/DL<br>👨🏻‍💻I'm currently learning Flutter<br>🎓Ask me about Machine Learning
 
 
 ## 🌐 Socials:
