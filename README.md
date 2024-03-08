@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Puri</h1>
 
 
+
 <img align="right" alt="data" width="300" src="https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/200.webp?cid=ecf05e47hn4nowuo78a9zf6xcuz42ph8stkyqg3de8fl56ml&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 # 💫 About Me:
