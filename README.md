@@ -20,5 +20,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 
+[![](https://visitcount.itsvg.in/api?id=Sarthakpurii&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
